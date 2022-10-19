@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karnnut&label=Profile%20views&color=0e75b6&style=flat" alt="karnnut" /> </p>
 <img align="right alt="Coding" width="400" src = "https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e4785etqp8igfnmn39k54532m9nv2qaq8v9pfqc89dk&rid=giphy.gif&ct=g">
-
+<img align="right alt="Coding" width="400" src = "https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif">
 - 🔭 I’m currently working on **AI Project**
 
 - 🌱 I’m currently learning **Javascript and Flutter**
