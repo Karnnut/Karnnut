@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Karnnutchaiasdf@gmail.com**
 
-- ⚡ Fun fact **How bad is caffeine for you?**
+- ⚡ **How bad is caffeine for you?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
