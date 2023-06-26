@@ -1,30 +1,29 @@
 <h1 align="center">Hi 👋, I'm PintoSoGood</h1>
 <h3 align="center">Fighting with Neovim Sometimes</h3>
 
-<style>
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=karnnut&label=Profile%20views&color=0e75b6&style=flat"
     alt="karnnut"
   />
 </p>
-<img align="right class="center" alt="Coding" width="400" src =
+<img align="right style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}" alt="Coding" width="400" src =
 "https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e4785etqp8igfnmn39k54532m9nv2qaq8v9pfqc89dk&rid=giphy.gif&ct=g">
-<img align="right class="center" alt="Coding" width="400" src =
-"https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif"> 
-- 🔭 I’m currently working on **Image Processing and Web Application** 
-- 🌱 I’m currently learning **Javascript and Flutter** 
-- 💬 Ask me about **Anything you want** 
-- 📫 How to reach me **Karnnutchaiasdf@gmail.com** 
-- ⚡ **How bad is caffeine for you?**
+<img align="right style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}" alt="Coding" width="400" src =
+"https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif"> <br>
+- 🔭 I’m currently working on **Image Processing and Web Application** <br>
+- 🌱 I’m currently learning **Javascript and Flutter** <br>
+- 💬 Ask me about **Anything you want** <br>
+- 📫 How to reach me **Karnnutchaiasdf@gmail.com** <br>
+- ⚡ **How bad is caffeine for you?**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
