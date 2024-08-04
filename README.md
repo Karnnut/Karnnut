@@ -19,9 +19,9 @@
   width: 50%;
 }" alt="Coding" width="400" src =
 "https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif"> <br>
-- 🔭 I’m currently working on **Image Processing and Web Application** <br>
-- 🌱 I’m currently learning **Javascript and Flutter** <br>
-- 💬 Ask me about **Anything you want** <br>
+- 🔭 I’m currently working on **Web Application with React.js and Golang** <br>
+- 🌱 I’m currently learning **Flutter and Swift** <br>
+- 💬 Ask me about **Music and How to take a breack** <br>
 - 📫 How to reach me **Karnnutchaiasdf@gmail.com** <br>
 - ⚡ **How bad is caffeine for you?**<br>
 
