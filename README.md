@@ -25,11 +25,11 @@
 
 <div align="center">
   <ul style="list-style: none; padding: 0;">
-    <li>🔭 I’m currently working on <strong>Web Application with React.js and Golang</strong></li>
-    <li>🌱 I’m currently learning <strong>Flutter and Swift</strong></li>
-    <li>💬 Ask me about <strong>Music and How to take a break</strong></li>
-    <li>📫 How to reach me <strong>Karnnutchaiasdf@gmail.com</strong></li>
-    <li>⚡ <strong>How bad is caffeine for you?</strong></li>
+    <h4>🔭 I’m currently working on <strong>Web Application with React.js and Golang</strong></h4>
+    <h4>🌱 I’m currently learning <strong>Flutter and Swift</strong></h4>
+    <h4>💬 Ask me about <strong>Music and How to take a break</strong></h4>
+    <h4>📫 How to reach me <strong>Karnnutchaiasdf@gmail.com</strong></h4>
+    <h4>⚡ <strong>How bad is caffeine for you?</strong></h4>
   </ul>
 </div>
 
