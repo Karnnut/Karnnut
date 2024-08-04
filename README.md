@@ -1,35 +1,42 @@
 <h1 align="center">Hi 👋, I'm PintoSoGood</h1>
 <h3 align="center">Fighting with Neovim Sometimes</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=karnnut&label=Profile%20views&color=0e75b6&style=flat"
     alt="karnnut"
   />
 </p>
-<img align="right style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}" alt="Coding" width="400" src =
-"https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e4785etqp8igfnmn39k54532m9nv2qaq8v9pfqc89dk&rid=giphy.gif&ct=g">
-<img align="right style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}" alt="Coding" width="400" src =
-"https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif"> <br>
-- 🔭 I’m currently working on **Web Application with React.js and Golang** <br>
-- 🌱 I’m currently learning **Flutter and Swift** <br>
-- 💬 Ask me about **Music and How to take a breack** <br>
-- 📫 How to reach me **Karnnutchaiasdf@gmail.com** <br>
-- ⚡ **How bad is caffeine for you?**<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<div align="center">
+  <img
+    alt="Coding"
+    width="400"
+    src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e4785etqp8igfnmn39k54532m9nv2qaq8v9pfqc89dk&rid=giphy.gif&ct=g"
+    style="display: block; margin: auto;"
+  />
+  <img
+    alt="Coding"
+    width="400"
+    src="https://media1.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif"
+    style="display: block; margin: auto;"
+  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li>🔭 I’m currently working on <strong>Web Application with React.js and Golang</strong></li>
+    <li>🌱 I’m currently learning <strong>Flutter and Swift</strong></li>
+    <li>💬 Ask me about <strong>Music and How to take a break</strong></li>
+    <li>📫 How to reach me <strong>Karnnutchaiasdf@gmail.com</strong></li>
+    <li>⚡ <strong>How bad is caffeine for you?</strong></li>
+  </ul>
+</div>
+
+<h3 align="center">Connect with me:</h3>
+
+<h3 align="center">Languages and Tools:</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -101,11 +108,8 @@
       width="40"
       height="40"
     />
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -169,4 +173,4 @@
       height="40"
     />
   </a>
-</p>
+</div>
